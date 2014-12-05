@@ -5,8 +5,15 @@
 ---
 status:       PUBLISHED
 technologies: [Android]
-categories:   [Media]
+categories:   [Media, OpenGL]
 languages:    [Java]
 solutions:    [Mobile]
 github:       android-MediaEffects
+level:        ADVANCED
+icon:         screenshots/icon-web.png
+apiRefs:
+    - android:android.media.effect.Effect
+    - android:android.media.effect.EffectContext
+    - android:android.media.effect.EffectFactory
+    - android:android.opengl.GLSurfaceView
 license: apache2
